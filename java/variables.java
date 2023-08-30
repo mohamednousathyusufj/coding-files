@@ -8,7 +8,7 @@ class variables{
         System.out.println("Age     : "+n);
         System.out.println("Percent : "+percent);
         System.out.println("Gender  : "+c);
-        // hello variables.
+        
 
 
     }
